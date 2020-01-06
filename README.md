@@ -1,1 +1,7 @@
 # Proyecto_Birra
+
+
+CREAMOS LE CODIGO INICIAL USANDO LOS SIGUIENTES CODIGOS
+
+1- npm install -g @angular/cli ----> PARA INSTALARNOS EL GENERADOR DE PROYECTOS DE ANGULAR
+2- ng new proyectoBirra ----> PARA CREAR UN NUEVO PROYECTO CON EL NOMBRE "proyectoBirra"
